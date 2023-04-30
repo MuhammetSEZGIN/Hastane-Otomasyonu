@@ -1,4 +1,4 @@
-# Hastane Otomation
+# Hospital Otomation
 Object Oriented Project Assignment
 A hospital automation system that performs basic operations for hospital staff and patients with a graphical user interface, using Java and MySQL.
 <br>
